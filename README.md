@@ -1,10 +1,10 @@
-# 🤖 AI Agent – Autonomous Task Planner
+# AI Agent – Autonomous Task Planner
 
 An **agentic AI system** that takes a high-level human goal, breaks it into executable steps, selects appropriate tools, executes tasks autonomously, evaluates outcomes, and self-corrects using feedback loops.
 
 This project demonstrates **true agent behavior**, not just a chatbot.
 
----
+
 
 ## 🚀 Key Features
 
@@ -16,7 +16,7 @@ This project demonstrates **true agent behavior**, not just a chatbot.
 - 🧩 Modular, extensible architecture
 - 🔒 Local-first (no cloud dependency by default)
 
----
+
 
 ## 🧠 Agent Workflow
 
@@ -34,7 +34,7 @@ Memory Update
 Replan (if needed)
 ```
 
----
+
 
 ## 📁 Project Structure
 
@@ -49,7 +49,7 @@ ai-agent-autonomous-task-planner/
 └── README.md
 ```
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -58,7 +58,7 @@ ai-agent-autonomous-task-planner/
 - **Core Concepts:** Agentic AI, Tool Use, Planning, Feedback Loops  
 - **LLM Support:** Mock (HF / OpenAI / Local ready)
 
----
+
 
 ## ⚙️ Installation
 
@@ -66,7 +66,7 @@ ai-agent-autonomous-task-planner/
 pip install -r requirements.txt
 ```
 
----
+
 
 ## ▶️ Usage
 
@@ -74,7 +74,7 @@ pip install -r requirements.txt
 python scripts/run_demo.py
 ```
 
----
+
 
 ## 🧪 Testing
 
@@ -82,17 +82,4 @@ python scripts/run_demo.py
 pytest tests/
 ```
 
----
 
-## 🔮 Future Enhancements
-
-- Real LLM integration
-- Automatic tool selection
-- Gradio / FastAPI UI
-- Vector memory
-
----
-
-## 📜 License
-
-Apache License 2.0
