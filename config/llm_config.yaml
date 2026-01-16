@@ -1,0 +1,3 @@
+model: mock-llm
+temperature: 0.3
+max_tokens: 512

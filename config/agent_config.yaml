@@ -1,0 +1,4 @@
+max_steps: 5
+allow_web: true
+allow_files: true
+allow_api: true
